@@ -1,2 +1,3 @@
 # BirdInvaders
-Files for Android game Bird Invaders
+Files for Android game Bird Invaders.
+
